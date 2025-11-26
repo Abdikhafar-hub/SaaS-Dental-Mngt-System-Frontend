@@ -1,0 +1,9 @@
+{
+  "/super-admin/dashboard/page": "app/super-admin/dashboard/page.js",
+  "/super-admin/clinics/page": "app/super-admin/clinics/page.js",
+  "/super-admin/clinics/[id]/assign-admin/page": "app/super-admin/clinics/[id]/assign-admin/page.js",
+  "/super-admin/clinics/create/page": "app/super-admin/clinics/create/page.js",
+  "/page": "app/page.js",
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/admin/patients/page": "app/admin/patients/page.js"
+}
